@@ -11,7 +11,6 @@ import { FileIcon, defaultStyles } from "react-file-icon";
 import { IconButton, Stack, Typography, Tooltip, Card } from "@mui/material";
 import DownloadIcon from "@mui/icons-material/Download";
 import DeleteIcon from "@mui/icons-material/Delete";
-import ShareIcon from "@mui/icons-material/Share";
 import ContentCopyIcon from '@mui/icons-material/ContentCopy';
 import { convertSizeInKB, getDateFromEpoc, showToast } from "../../../../helper";
 import ActionDialog from "../ActionOverlay";
