@@ -1,0 +1,37 @@
+.folderListNavItemWrapper {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  padding: 16px;
+  cursor: pointer;
+}
+.folderListNavItemWrapperSelected {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  padding: 16px;
+  cursor: pointer;
+  background-color: rgba(0, 0, 0, 0.07);
+}
+
+.folderListNavItemWrapper:hover {
+  background-color: #e7ebef;
+}
+
+.folderListWrapperCss {
+  overflow-y: scroll;
+  min-width: 220px;
+}
+
+.loadingCss {
+  padding: 16px;
+}
+
+.skeletonCss {
+  margin-top: 12px;
+  margin-bottom: 4px;
+}
+
+.errorCss {
+  padding: 16px;
+}

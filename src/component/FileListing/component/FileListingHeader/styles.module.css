@@ -1,0 +1,11 @@
+.fileListHeaderWrapperCss {
+  display: flex;
+  padding-top: 5px;
+  box-sizing: border-box;
+  align-items: center;
+}
+
+.searchWrapperCss {
+  padding-right: 32px;
+  flex-grow: 5;
+}

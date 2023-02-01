@@ -1,0 +1,9 @@
+.folderListingWrapperCss {
+  background-color: white;
+  height: 100%;
+  border-radius: 4px 8px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 10px;
+  box-sizing: border-box;
+}

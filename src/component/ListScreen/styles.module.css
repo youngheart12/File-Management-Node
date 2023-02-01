@@ -1,0 +1,21 @@
+.parentWrapperCss {
+  background-color: #dbe3eb;
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+  padding: 40px;
+  box-sizing: border-box;
+}
+
+.firstChildWrapperCss {
+  /* background-color: white; */
+  flex-grow: 2;
+  margin-right: 30px;
+  max-width: 300px;
+}
+
+.secondChildWrapperCss {
+  background-color: transparent;
+  flex-grow: 5;
+  height: 100%;
+}
